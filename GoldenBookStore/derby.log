@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Thu Sep 27 23:45:58 CEST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-0166-1cfe-e3a0-000006e771a0 
+on database directory E:\Projektek\Spring\GoldenBookStore\zadb  with class loader sun.misc.Launcher$AppClassLoader@2a139a55 
+Loaded from file:/E:/Projektek/Spring/GoldenBookStore/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_181-b13
+user.dir=E:\Projektek\Spring\GoldenBookStore
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
